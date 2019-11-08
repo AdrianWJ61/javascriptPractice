@@ -4,8 +4,7 @@
 function palindrome(str) {
     // turn the string to lowercase
     str = str.toLowerCase().replace(/[\W_]/g,'')
-    // reverse input string and return the result of the
-    // comparisong
+    // reverse input string and return the result of the comparison
     console.log(str.split('').reverse().join(''));
     return str === str.split('').reverse().join('');
   }

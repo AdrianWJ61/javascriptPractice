@@ -12,7 +12,4 @@ function reverseWordsAndLetters(str) {
   }
   
   
-  console.log(reverseWordsAndLetters("Reverse this sentence so words are reversed"));
-
- //console.log(reverseWordsAndLetters("Labour MP and deputy Speaker Sir Lindsay Hoyle has been elected by MPs as the new Commons Speaker, after John Bercow stepped down. After winning"));
-  
+  console.log(reverseWordsAndLetters("Reverse this sentence so words are reversed"));  
